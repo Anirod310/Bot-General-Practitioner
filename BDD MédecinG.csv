@@ -1,0 +1,28 @@
+Maladies,bronchite aigue,gastro-enterite aigue,Grippe
+Symptome1,toux,diarrhee,malaise
+Symptome2,glaires,vomissements,frissons
+Symptome3,fievre,nausees,fatigue
+Symptome4,maux de tete,mal de ventre,toux
+Symptome5,courbatures,fievre,courbatures
+Symptome6,rhume,None,maux de tete
+Symptome7,sinusite,None,fievre
+Symptome8,maux de gorge,None,mal a la gorge
+Symptome9,None,None,perte de gout
+Symptome10,None,None,diarrhee
+Temperature,>38|37,>38|37,>38
+Tension arterielle,"120|70,140|70","120|70,140|70","120|70,140|70"
+Pouls,60|80,60|80,60|80
+Sport recent,None,None,None
+Allergies,None,None,None
+Echelle de douleur,0|3,3|5,3|5
+Selles,None,molles/liquides|None,molles/liquides|None
+Urine,None,None,None
+Poids,None,-5%,None
+Taille,None,None,None
+Antecedents medicaux,None,None,None
+Antecedents familiaux,None,None,None
+Test1,Pas de Test reellement utile,deshydratation?,Test biologique
+Test2,None,examen bacteriologique des selles,Pas de Test reellement utile
+Test3,None,Pas de Test reellement utile,None
+Test4,None,None,None
+Test5,None,None,None
